@@ -102,7 +102,7 @@ class Triangle {
 class MyGLRenderer implements GLSurfaceView.Renderer {
 
 	private Triangle mTriangle;
-	private Square   mSquare;
+	//private Square   mSquare;
 
 	public void onSurfaceCreated(GL10 unused, EGLConfig config) {
 		// Set the background frame color
